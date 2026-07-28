@@ -1,5 +1,6 @@
 # Business Case Manager
 
+```
 com.business_case_manager.business_case_manager
 │
 ├── BusinessCaseManagerApplication.java
@@ -58,3 +59,4 @@ com.business_case_manager.business_case_manager
 └── notification
     ├── service
     └── dto
+```
